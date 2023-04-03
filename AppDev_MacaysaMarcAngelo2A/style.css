@@ -1,0 +1,90 @@
+.h1{
+    font-family: serif;
+    padding-left: 40%;
+}
+
+.hpics{
+    font-family: serif;
+    padding-left: 2%;
+}
+
+.hsound{
+    font-family: serif;
+    padding-left: 2%;
+}
+
+.audio{
+    padding-left: 6%;
+}
+
+.body{
+    font-family: sans-serif;
+    color: white;
+}
+
+.orderedlist{
+    font-size: larger;
+    font-family: times new roman;
+}
+
+.skyrim{
+    width: 300px;
+    height: 200px;
+    padding-left: 5%;
+    margin-bottom: 2%;
+}
+
+.gtav{
+    width: 300px;
+    height: 200px;
+    padding-left: 10%;
+    margin-bottom: 2%;
+}
+
+.gtasa{
+    width: 300px;
+    height: 200px;
+    padding-left:10% ;
+    margin-bottom: 2%;
+}
+
+.nba2k{
+    width: 300px;
+    height: 200px;
+    padding-left: 5%;
+}
+
+.codm{
+    width: 300px;
+    height: 200px;
+    padding-left: 10%;
+}
+
+.ac{
+    width: 300px;
+    height: 200px;
+    padding-left: 10%;
+}
+
+.fb{
+    width: 85px;
+    height: 85px;
+    padding-left: 41%;
+}
+
+.ig{
+    width: 80px;
+    height: 80px;
+    padding-left: 0%;
+}
+
+.tktk{
+    width: 80px;
+    height: 80px;
+    padding-left: 0%;
+}
+
+.socials{
+    font-family: sans-serif;
+    padding-left: 44%;
+}
